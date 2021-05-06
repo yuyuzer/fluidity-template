@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Reddit",
+    "links": [
+      {
+        "label": "r/KingdomHearts",
+        "value": "https://www.reddit.com/r/KingdomHearts/"
+      },
+      {
+        "label": "r/unixporn",
+        "value": "https://www.reddit.com/r/unixporn/"
+      },
+      {
+        "label": "r/QualityReps",
+        "value": "https://www.reddit.com/r/QualityReps/"
+      },
+      {
+        "label": "r/plants",
+        "value": "https://www.reddit.com/r/plants/"
+      }
+    ]
+  },
+  {
+    "title": "Trackers",
+    "links": [
+      {
+        "label": "AnimeBytes",
+        "value": "https://animebytes.tv/"
+      },
+      {
+        "label": "Rutrackers",
+        "value": "http://rutracker.org/"
+      },
+      {
+        "label": "nyaa",
+        "value": "http://nyaa.si/"
+      }
+    ]
+  },
+  {
+    "title": "Useful",
+    "links": [
+      {
+        "label": "Cloud encrypter",
+        "value": "https://cryptomator.org/"
+      },
+      {
+        "label": "Mega",
+        "value": "https://mega.nz/"
+      }
+    ]
+  },
+  {
+    "title": "Useful2",
+    "links": [
+      {
+        "label": "Useful",
+        "value": "https://trouveruntrucuseful.com"
+      }
+    ]
+  }
+]
